@@ -100,7 +100,87 @@ tarefa.
 
 * Listas de discussão: https://www.postgresql.org/download/product-categories
 
+Eu estava no curso do banco de dados e já havia instalado o postgresql em uma maquina virtual centOS 8 e quando fui usar durante a mentoria estava 
+com problemas então fui verificar a versão do meu postgresql 
+
+Esse link me ajudou nessa missão:  
+https://qastack.com.br/programming/13733719/which-version-of-postgresql-am-i-running
+
+a partir da orientação do link executei o comando para verificar a versão do PostgreSQL:   
+**postgres -V**
+
+e consegui verificar minha versão.
+
+verifiquei o estado do meu banco de dados com o comando 
+
+**sudo systemctl status postgresql version** 
+
+e ele retornou o seguinte:   
+Active: failed
+
+tentei iniciar ele com o comando:  
+**sudo systemctl start postgresql version** 
+
+e o comando retornou:   
+Job for postgresql.service failed because the control process exited with error code.   
+See "systemctl status postgresql.service" and "journalctl -xe" for details.
+
+antes de qualquer coisa atualizei meu sistema centOS 8 com os comandos:   
+**sudo dnf update**
+
+e depois consolidei a atualização com o comando:   
+**sudo dnf upgrade**   
+
+https://stackoverflow.com/questions/35492893/unable-to-start-postgresql-service-on-centos-7
+
+de alguma forma esse link me ajudou mas o comando que executei foi esse:   
+**sudo system start postgresql-versão**
+
+Então não sei exatamente se a atualização resolveu ou alguns comandos do link porém o banco de dados agora está ativado.
+
 ## Instalando o PostgreSQL (no Windows)
+Estou usando o linux centOS 8 e está instalado então vou acompanhar a instalação e já estudei uma aula sobre instalação do postgresql no Windows.
+
+Durante a instalação foi explicado o que é um superusuário, ou seja, o superusuario é um usuario que tem permissões para executar diversos comandos 
+no banco de dados. 
+
+A Nádia confessou sua preferência pelo Linux Red Hat 7 
+
+Como a Nádia está usando no Windows estou presenciando comandos que eu não tinha visto antes como:
+
+**localhost** - não sei o que faz ainda.
+
+**postgres** - não sei o que faz ainda.
+
+**5432** - algo relacionado a porta, inclusive esse número costuma ser padrão.
+
+**postgres** - algo relacionado ao usuário
+
+foi digitado o password para acessar o banco de dados, baseado no meu conhecimento eu vou executar os seguintes comandos para acessar o banco de
+dados.
+
+acessar o usuário do postgres:   
+**sudo -u postgres -i**
+
+conectar ao banco de dados:   
+**psql** 
+
+e pronto posso executar o comando que a Nadia fez no Windows para verificar a versão:   
+**select version();**
+
+Tudo ok! que alegria, a vida é incrível na programação.
+
+comando para listar todos os bancos de dados (database):   
+**\l**
+
+o comando para listar os usuários:   
+**\du**
+
+Para exemplificar vamos criar um banco de dados baseado no diagrama de ER da imagem.
+
+Parei no minuto 34:55
+	
+
 
 
 
