@@ -20,7 +20,7 @@
 
     Um erro de programador iniciante é começar pelo código e não pela lógica da resolução do problema.
 
-    Um exemplo de problema seria? uma compra de duas camisetas que tem um desconto de 20% terá qual valor final?
+    Um exemplo de problema seria: uma compra de duas camisetas que tem um desconto de 20% terá qual valor final?
 
     Passo 1 descobrir os preços da camisetas;
     Passo 2 Somar o preço das camisetas;
