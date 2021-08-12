@@ -12,9 +12,10 @@ No email a dio recomenda a prática de 2 horas por dia.
 
 A partir daí a gente gera nosso quadro de avaliação 
 
-2 horas tempo minímo 
-4 horas tempo seguro
-6 horas tempo tranquilizador (estágio)
+2 horas tempo minímo. 
+3 horas tempo seguro.
+4 horas tempo tranquilizador.
+6 horas tempo de um estágio.
 8 horas uma jornada de trabalho.
 
 Sendo assim hoje esse relatório entra em vigor com o objetivo de amanhã começar esse Bootcamp se dedicando pelo menos 2 horas.
@@ -22,6 +23,16 @@ Sendo assim hoje esse relatório entra em vigor com o objetivo de amanhã começ
 No momento estou me sentindo muito feliz com essa oportunidade, e sinto que está em minhas mão fazer acontecer, é muito legal poder monitorar meu desenvolvimento dia a dia e sentir que eu estou fazendo acontecer.
 
 dia 30/06 - mentoria 1 trabalhando com banco de dados
-1 hora e 57 minutos 
+1 hora e 57 minutos (abaixo do tempo minímo)
 Iniciei a prática com banco de dados, principais conceitos teoricos revisitados estou estudando o tempo minimo então existe a possibilidade de 
 melhorar meu desempenho no curso.
+
+dia 01/07 - mentoria 1 trabalhando com banco de dados
+3 horas e 20 minutos (tempo seguro)
+Finalizei a prática com os bancos de dados e prátiquei o tempo recomendado para finalizar o bootcamp Santander
+
+dia 11/08 - revisão do conteúdo e inicio de banco de dados
+Todo meu projeto pessoal de estudos foi por agua abaixo pois a dificuldade financeira foi maior e tive que voltar a trabalhar então agora esse controle será mais como um diário de estudos, se eu chegar ao final excelente se não chegar tudo bem, é o que posso fazer a partir de agora apenas sonhar com a área de programação.
+
+Assisti a aula 1 - fundamentos de banco de dados do módulo 1 introdução a banco de dados PostgreSQL
+Assisti a aula 2 - Instalação do PostgreSQL no Ubuntu
