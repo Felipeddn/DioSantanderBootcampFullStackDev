@@ -32,6 +32,7 @@ dia 01/07 - mentoria 1 trabalhando com banco de dados
 Finalizei a prática com os bancos de dados e prátiquei o tempo recomendado para finalizar o bootcamp Santander
 
 dia 11/08 - revisão do conteúdo e inicio de banco de dados
+37 minutos
 Todo meu projeto pessoal de estudos foi por agua abaixo pois a dificuldade financeira foi maior e tive que voltar a trabalhar então agora esse controle será mais como um diário de estudos, se eu chegar ao final excelente se não chegar tudo bem, é o que posso fazer a partir de agora apenas sonhar com a área de programação.
 
 Assisti a aula 1 - fundamentos de banco de dados do módulo 1 introdução a banco de dados PostgreSQL
