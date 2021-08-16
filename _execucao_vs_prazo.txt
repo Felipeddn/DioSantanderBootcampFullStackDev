@@ -37,3 +37,11 @@ Todo meu projeto pessoal de estudos foi por agua abaixo pois a dificuldade finan
 
 Assisti a aula 1 - fundamentos de banco de dados do módulo 1 introdução a banco de dados PostgreSQL
 Assisti a aula 2 - Instalação do PostgreSQL no Ubuntu
+
+dia 12/08 - revisão do conteúdo banco de dados 
+50 minutos.
+assisti a aula 3 instalação do PostgreSQL e Pgadmin4 no centos 8 e também dei uma lida na forma como eu fiz isso, está bem diferente.
+
+dia 15/08 - revisão do conteúdo banco de dados 2 
+
+assisti a aula 4 de instalação do PostgreSQL e Pgadmin4 no Windows, respondi o questionário referente ao módulo 1 de instalação do PostgreSQL e Pgadmin4 com 90% de aprovação, assisti a aula 1 do módulo 2 o que é o arquivo postgresql.conf 
